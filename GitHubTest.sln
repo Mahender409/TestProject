@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubTest", "GitHubTest\GitHubTest.csproj", "{169A04B8-38E7-4065-A0D6-EC6B6C6C5032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubTest.Tests", "GitHubTest.Tests\GitHubTest.Tests.csproj", "{1171F702-FF5B-4E31-A075-DB1798F1E563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169A04B8-38E7-4065-A0D6-EC6B6C6C5032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169A04B8-38E7-4065-A0D6-EC6B6C6C5032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169A04B8-38E7-4065-A0D6-EC6B6C6C5032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169A04B8-38E7-4065-A0D6-EC6B6C6C5032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1171F702-FF5B-4E31-A075-DB1798F1E563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1171F702-FF5B-4E31-A075-DB1798F1E563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1171F702-FF5B-4E31-A075-DB1798F1E563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1171F702-FF5B-4E31-A075-DB1798F1E563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
